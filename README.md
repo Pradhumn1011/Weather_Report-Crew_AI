@@ -31,8 +31,8 @@ This project is a smart weather report generator that:
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Pradhumn1011/Weather_Report-Crew_AI.git
+cd your-Weather_Report-Crew_AI
 
 ### 2. Create a virtual environment and install dependencies
 python -m venv .venv
